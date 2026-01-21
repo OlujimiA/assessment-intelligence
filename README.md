@@ -2,6 +2,29 @@
 
 This is the repository for the Nile GDSC Core Ai application entry. Please make sure to read below before proceeding.
 
+## 🚀 Skill Check – Mandatory Registration & Timeline
+
+### 🔗 Registration (Required)
+**All students must register before attempting the code challenge.**  
+👉 **Microsoft Form Registration Link:**  
+https://forms.office.com/r/NgQvXsT3JE
+
+---
+
+### 🗓️ Important Dates
+- **Jan 28:** Final Submission Deadline (Code + Documentation)
+- **Jan 29 – Jan 31:** Review Period  
+  *(Technical Review, Peer Review, and Grading)*
+
+---
+
+### 📩 Contact Information
+For any questions or clarifications, please contact:  
+- **Unit Head:** Daniel Ugo Ali
+- **Email:** danielugoali@gmail.com  
+- **Phone / WhatsApp :** +234 810 160 1661
+
+
 ## Overview
 
 This repository contains AI/ML and Data tasks at three difficulty levels:
