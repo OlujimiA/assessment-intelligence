@@ -24,6 +24,9 @@ For any questions or clarifications, please contact:
 - **Email:** danielugoali@gmail.com  
 - **Phone / WhatsApp :** +234 810 160 1661
 
+Join the WhatsApp group chat via this link: https://chat.whatsapp.com/ITihEAkBhWFLHrj5EejxLh?mode=gi_t
+ for more info
+
 
 ## Overview
 
